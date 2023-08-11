@@ -1,0 +1,29 @@
+.headi{
+    width: 100%;
+    text-align: left;
+}
+
+.headi h3{
+    display:inline;
+}
+
+.headi button{
+    float: right;
+    border: 1.03px solid Black;
+}
+
+#startb, #status{
+    font-size: 21.21271720348px;
+}
+
+.footer{
+    background-color: grey;
+    margin: 0px;
+    color: black;
+}
+
+canvas{
+    border: 5px solid  aquamarine;
+    border-radius:21px ;
+    
+}
